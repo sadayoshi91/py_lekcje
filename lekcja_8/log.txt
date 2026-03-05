@@ -1,0 +1,7 @@
+Wynik: 12.0
+B³¹d: Nie mo¿na po³¹czyæ z baz¹ danych.
+B³¹d: Nie mo¿na znaleŸæ pliku konfiguracyjnego.
+B³¹d: Nie mo¿na odczytaæ dane z API.
+BÅ‚Ä…d: Nie moÅ¼na poÅ‚Ä…czyÄ‡ z bazÄ… danych.
+BÅ‚Ä…d: Nie moÅ¼na znaleÅºÄ‡ pliku konfiguracyjnego.
+BÅ‚Ä…d: Nie moÅ¼na odczytaÄ‡ dane z API.
